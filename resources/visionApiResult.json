@@ -1,0 +1,35 @@
+{
+    "tags": [
+        {
+            "name": "sky",
+            "confidence": 0.998857855796814
+        },
+        {
+            "name": "outdoor",
+            "confidence": 0.99455726146698
+        },
+        {
+            "name": "grass",
+            "confidence": 0.9855617880821228
+        }
+    ],
+    "description": {
+        "tags": [
+            "outdoor",
+            "grass",
+            "mountain"
+        ],
+        "captions": [
+            {
+                "text": "a herd of animals standing on top of a mountain",
+                "confidence": 0.38063336153125649
+            }
+        ]
+    },
+    "requestId": "17670d1b-be99-496f-b4a0-987aa3bb93e8",
+    "metadata": {
+        "width": 900,
+        "height": 500,
+        "format": "Jpeg"
+    }
+}
